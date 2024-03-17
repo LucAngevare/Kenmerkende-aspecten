@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+#ka {
+  width: 70vw;
+}
+
+form {
+  text-align: center;
+}
+.button {
+  text-align: center;
+}
